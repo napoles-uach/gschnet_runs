@@ -1,4 +1,4 @@
-# G‑SchNet con QM9 → (y tu) OE62: instalación, entrenamiento, generación y exportación
+# G‑SchNet con QM9 →  OE62: instalación, entrenamiento, generación y exportación
 
 > Esta guía reproduce el pipeline completo en Linux con GPU(s) NVIDIA. Incluye: entorno reproducible con conda, preparación de **QM9**, entrenamiento de **G‑SchNet**, generación/filtrado/exportación a **XYZ/CIF**, y cómo llevar el método a un **dataset propio (p.ej. OE62)**.
 
