@@ -504,4 +504,4 @@ pip install "$HOME/schnetpack-gschnet"
 
 ---
 
-**¡Listo!** Con esto tu estudiante debería poder replicar el flujo de trabajo completo (QM9) y adaptarlo a **OE62** o cualquier dataset propio.
+**¡Listo!** 
